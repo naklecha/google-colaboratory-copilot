@@ -2,7 +2,7 @@
 
 [website](http://copilot.naklecha.com/)
 
-setup guide - [here](https://bevel-pufferfish-154.notion.site/Getting-started-with-Copilot-7be0d614295a4836b84fb9cf7c909227)
+[setup guide](https://bevel-pufferfish-154.notion.site/Getting-started-with-Copilot-7be0d614295a4836b84fb9cf7c909227)
 
 #### say goodbye to alt tabbing, github copilot implemented on google colab 👋
 
